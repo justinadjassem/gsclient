@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "gsclient"
+    }
+  },
+  "defaultProject": "gsclient",
+  "cli": {
+    "analytics": "fffcdbbc-861f-4ece-ab0d-30510c8ad817"
+  }
 }
